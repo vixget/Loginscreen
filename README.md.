@@ -1,0 +1,17 @@
+# Android Login Screen
+
+A login UI built with Jetpack Compose and Kotlin.
+
+## Preview
+![Login Screen](Screenshot%202026-07-19%20012728.png)
+
+## Features
+- Email and password input fields
+- Login button
+- Forgot Password link
+- Social sign-in section
+
+## Tech Stack
+- Kotlin
+- Jetpack Compose
+- Android Studio
